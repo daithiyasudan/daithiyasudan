@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daithiya Sudan</h1>
 <h3 align="center">A data enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Data visualization using Python**
 
